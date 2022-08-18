@@ -1,3 +1,3 @@
 # littleSnakeGame
 
-little snake game written in Java.
+Little snake game written in Java.
